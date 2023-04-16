@@ -1,0 +1,14 @@
+name: bank-environemnt
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - tiingo
+  - pandas-datareader
+  - datetime
+  - seaborn
+  - matplotlib.pyplot
+  - plotly
+  - cufflinks
