@@ -5,10 +5,7 @@ dependencies:
   - python
   - numpy
   - pandas
-  - tiingo
   - pandas-datareader
-  - datetime
   - seaborn
-  - matplotlib.pyplot
+  - matplotlib
   - plotly
-  - cufflinks
