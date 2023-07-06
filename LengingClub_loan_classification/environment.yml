@@ -1,0 +1,11 @@
+name: bank-environemnt
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pandas
+  - seaborn
+  - matplotlib
+  - sklearn
+  - tensorflow
